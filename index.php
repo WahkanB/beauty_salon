@@ -21,7 +21,7 @@ require_once "include/config.php";
 
 <body data-bs-spy="scroll" data-bs-target="navbar">
     <!--navbar-->
-    <header id="home" >
+    <header id="home" style="background-image:url(images/pexels-alexander-krivitskiy-1027092.jpg) ;">
         <nav class="navbar navbar-expand-lg fixed-top " id="">
             <div class="container">
                 <a class="navbar-brand" href="#">ANI ADI style</a>
