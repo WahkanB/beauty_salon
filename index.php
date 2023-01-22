@@ -24,7 +24,7 @@ require_once "include/config.php";
     <header id="home" style="background-image:url(images/pexels-alexander-krivitskiy-1027092.jpg) ;">
         <nav class="navbar navbar-expand-lg fixed-top " id="">
             <div class="container">
-                <a class="navbar-brand" href="#">ANI ADI style</a>
+                <a class="navbar-brand" href="#">NESIN</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -86,7 +86,7 @@ require_once "include/config.php";
                 </div>
                 <div class="col-lg-4">
                     <h2>За нас</h2>
-                    <h1>За Боби</h1>
+                    <h1>За Несин</h1>
                     <p>професионално обслужване, опит и резултати над очакванията!</p>
                 </div>
             </div>
